@@ -1,0 +1,77 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background : linear-gradient(#0c1022,#0c1022);
+    width:100%;
+    height: 100%;
+}
+.admin_nav{
+    /* background-color: rgb(37, 36, 36); */
+    background-image: linear-gradient(#451049, #00ccff);
+    /* box-shadow: inset 5px 5px 50px rgba(122, 161, 194, 0.5); */
+    padding-left: 20px;
+    padding-right: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid rgb(37, 12, 51);
+    /* filter: blur(0.10px); */
+    }
+
+    .sidebar{
+        border: 1px solid  #00ccff;
+        padding-left: 2opx;
+        margin-left: 20px;
+        /* background: linear-gradient( rgb(219, 137, 29), black,black,rgb(219, 137, 29)); */
+        box-shadow: inset 2px 2px 20px  #00ccff;
+        background: #040717;
+        
+    }
+    .table{
+        border-radius: 1px solid;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .header{
+        font-size: 20px;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .page{
+        border: 1px solid  #00ccff;
+        padding-left: 20px;
+        margin-left: 20px;
+        box-shadow: inset 2px 2px 20px #00ccff;
+        background: #0c1022;
+    }
+
+   
+    .nav-bar{
+        background-image: linear-gradient(#451049, #00ccff);
+    
+    }
+    .user_sidebar{
+        margin-top: 20px;
+        padding-top: 20px;
+        background: #040717;
+    }
+    .user_page{
+        background: #040717;
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+    .btn{
+        padding-right: 20px;
+        margin-right: 20px;
+        box-shadow: 0 0 5px #040717;
+        background : linear-gradient(#0c1022,#0c1022);
+        text-decoration: none;
+    }
+    .btn:hover{
+        box-shadow: 0 0 5px  #040717;
+        color: #040717;
+    }
+   
+    
+
+

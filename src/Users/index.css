@@ -1,0 +1,85 @@
+.category_set{
+list-style: none;
+display: inline-block;
+align-items: center;
+justify-content: space-between;
+padding-left: 20px;
+margin-left: 20px;
+}
+.category_image{
+    align-items: center;
+    justify-content: center;
+    /* background:orange ; */
+    /* margin: auto;
+    padding: auto; */ 
+     padding-left: 40px;
+    margin-left: 40px;
+    padding-right: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.card {
+  
+    width: 250px;
+    height: 254px;
+    border-radius: 17px ;
+    /* padding: 5px; */
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  }
+  
+  button{
+    box-shadow: 0 0 3px cyan;
+    color: #00DDEB;
+    background : linear-gradient(#0c1022,#0c1022);
+  }
+  button:hover{
+    background: #6a989b;
+    box-shadow: 0 0 5px cyan;
+  }
+  .card__content {
+    background: rgb(5, 6, 45);
+    border-radius: 17px;
+    width: 100%;
+    height: 100%;
+  }
+  .itemimage{
+    
+padding-left: 85px;
+margin-left: 85px;
+     margin-top: 40px;
+    padding-left: 40px;
+    width: 400px;
+    height: 500px;
+    border-radius: 17px ;
+    padding: 5px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+    background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB); 
+    /* border: 2px solid; */
+  }
+ .title{
+  color:#00DDEB;
+  margin-top: 5px;
+  padding-top: 5px;
+  font-size: 40px;
+ }
+ .quantity{
+color: #00DDEB;
+font-size: 20px;
+ }
+.form-control{
+  box-shadow: 0 0 3px cyan;
+    color: #00DDEB;
+    background : linear-gradient(#0c1022,#0c1022);
+}
+.canvas{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
